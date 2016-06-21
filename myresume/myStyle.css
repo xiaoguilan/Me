@@ -1,0 +1,22 @@
+.me img{
+   width: 25px;
+    height:25px;
+    border-radius: 70px;
+    float: left;
+}
+.project_link{
+    float: right;
+}
+.project_info{
+    width: 1000px;
+    float: left;
+
+}
+.project_img{
+    width: 60px;
+    height: 70px;
+    float: left;
+    margin-left: 40px;
+}
+
+
