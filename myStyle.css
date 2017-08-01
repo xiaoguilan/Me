@@ -1,0 +1,32 @@
+*{
+    line-height: 25px;
+}
+.circleContent{
+    width:100px;
+    margin-left:-6px;
+    margin-top:5px
+}
+.circle{
+    display:inline-block;
+    width:16px;
+    height:16px;
+    border-radius: 50%;
+    background:#2f96db;
+}
+.line{
+    width:3px;
+    height: 10px;
+    background:#c9c9c9;
+}
+.eduInfo{
+    position:relative;
+    top:50px;
+    line-height:25px
+}
+.eduImg{
+    width:40px;
+    margin-left:-10px;
+    margin-bottom:5px;
+}
+
+
