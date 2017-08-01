@@ -1,22 +1,32 @@
-.me img{
-   width: 25px;
-    height:25px;
-    border-radius: 70px;
-    float: left;
+*{
+    line-height: 25px;
 }
-.project_link{
-    float: right;
+.circleContent{
+    width:100px;
+    margin-left:-6px;
+    margin-top:5px
 }
-.project_info{
-    width: 1000px;
-    float: left;
-
+.circle{
+    display:inline-block;
+    width:16px;
+    height:16px;
+    border-radius: 50%;
+    background:#2f96db;
 }
-.project_img{
-    width: 60px;
-    height: 70px;
-    float: left;
-    margin-left: 40px;
+.line{
+    width:3px;
+    height: 10px;
+    background:#c9c9c9;
+}
+.eduInfo{
+    position:relative;
+    top:50px;
+    line-height:25px
+}
+.eduImg{
+    width:40px;
+    margin-left:-10px;
+    margin-bottom:5px;
 }
 
 
